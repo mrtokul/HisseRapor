@@ -16,7 +16,7 @@ Güncel sürüm: **2.4.1** (5 Kasım 2026). Sürüm numarası tek yerde tutulur:
 bilgisini (`surum.txt`) `surum.py` ile buradan üretir. Değişiklik geçmişi `bist_analiz.py`
 dosyasının başındaki açıklamadadır.
 
-Hazır EXE için: [Releases](../../releases) sayfası.
+Hazır EXE (Windows, tek dosya, Python gerekmez): [`exe/HisseRapor-v2.4.1.exe`](exe/HisseRapor-v2.4.1.exe) → sayfada «Download raw file». İmzasız olduğu için Windows ilk açılışta uyarı verebilir (Ek bilgi → Yine de çalıştır).
 
 ## Kaynaktan derleme (Windows)
 
