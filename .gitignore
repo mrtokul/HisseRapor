@@ -1,0 +1,12 @@
+# Derleme çıktıları
+build/
+dist/
+*.spec
+__pycache__/
+*.pyc
+# Programın çalışırken ürettiği kullanıcı dosyaları
+hisse_rapor_ayar.json
+hisselerim.json
+bist100_liste.json
+hisse_rapor.log
+derleme.log
